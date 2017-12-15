@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>images/900px-Team_liquid_logo_2017.png</file>
+        <file>images/Planet_Odd_Logo.png</file>
+    </qresource>
+</RCC>
